@@ -6,4 +6,20 @@ Entomologists & herpetologists: These people collect data on insects (entomologi
 ### this application allows you to create collections, add field visits to collections, attach findings to visits, request two-level verification, track verification status, print findings accompanying cards.
 
 ## Angular materials implemented
-autocomplete https://material.angular.io/components/autocomplete/overview
+autocomplete
+buttons
+card
+checkbox
+chips
+datepicker
+dialog
+form field
+icon
+input
+menu
+progress spinner
+select
+sidenav
+slider
+snackbar
+table
