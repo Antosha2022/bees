@@ -10,16 +10,16 @@ Entomologists & herpetologists: These people collect data on insects (entomologi
 ### buttons
 ### card
 ### checkbox
-#### chips
-datepicker
-dialog
-form field
-icon
-input
-menu
-progress spinner
-select
-sidenav
-slider
-snackbar
-table
+### chips
+### datepicker
+### dialog
+### form field
+### icon
+### input
+### menu
+### progress spinner
+### select
+### sidenav
+### slider
+### snackbar
+### table
